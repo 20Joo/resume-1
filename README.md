@@ -1,15 +1,15 @@
 # 나석주 이력서
 
 <a href="https://seokju.me">
-<img src="assets/icons/home.svg" style="width: 32px" alt="homepage">
+<img src="assets/icons/home.svg" width="32" alt="homepage">
 </a>
 
 <a href="mailto:seokju.me@gmail.com">
-<img src="assets/icons/email.svg" style="width: 32px" alt="email">
+<img src="assets/icons/email.svg" width="32" alt="email">
 </a>
 
 <a href="https://github.com/seokju-na">
-<img src="assets/icons/github.svg" style="width: 32px" alt="github">
+<img src="assets/icons/github.svg" width="32" alt="github">
 </a>
 
 
