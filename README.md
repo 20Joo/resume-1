@@ -1,38 +1,25 @@
-# 나석주 이력서
+# 나석주 개발 이력서
 
-<a href="https://seokju.me">
-<img src="assets/icons/home.svg" width="32" alt="homepage">
-</a>
+## 소개
 
-<a href="mailto:seokju.me@gmail.com">
-<img src="assets/icons/email.svg" width="32" alt="email">
-</a>
+<img src="assets/me_at_github.png" width="200">
 
-<a href="https://github.com/seokju-na">
-<img src="assets/icons/github.svg" width="32" alt="github">
-</a>
+* 이름 : 나석주
+* Email : seokju.me@gmail.com
+* Github : [github.com/seokju-na](https://github.com/seokju-na)
 
+
+개인적으로 소프트웨어는 논리에 기반한 예술이라 생각하고 그에 맞게 코드도 아름다워야 한다고 생각합니다. 저는 아름다운 코드를 짜는 장인이 되고파 매일 실력을 갈고 닦고 있습니다.
 
 ## 경력
 
 * [타운컴퍼니](https://fb.com/towncompany)
     - R&D 파트 개발팀
     - 웹 프론트 엔지니어
-    - 기간 : 2017.9 ~ 2018.2
+    - 기간 : 2017.9 ~ 2018.2, 2018.8 ~
 * [두닷두](www.dodotdo.com)
     - 웹 프론트 엔지니어
     - 기간 : 2016.3 ~ 2017.2
-
-
-## 활동
-
-* 고려대학교 맥주양조동아리 [맥락](https://enjoybeer.org) 2기 회장 (2018.3 ~ 2018.6)
-* 고려대학교 맥주양조동아리 [맥락](https://enjoybeer.org) 1기 회장 (2017.9 ~ 2018.1)
-* 제 2회 고려대학교 해커톤: 고카톤 운영진 (2017.5 ~ 2017.8)
-* 제 5회 대학생 연합 해커톤 UNITHON 운영진 (2017.5 ~ 2017.7)
-* Naver D2SF 캠퍼스 파트너 1기 (2016.11 ~ 2017.3)
-* 실전 SW 창업 연합 동아리 REAL 5기 운영진 (2016.11 ~ 2017.6)
-* [소프트웨어 마에스트로](swmaestro.kr) 6기 연수생 (2015.7 ~ 2016.6)
 
 
 ## 프로젝트
@@ -62,7 +49,7 @@
 - 기간 : 2016.3 ~ 2017.2
 - 담당 업무 : 웹 프론트엔드 개발
 - 소속 : 두닷두 ([dodotdo.com](www.dodotdo.com))
-- 두닷에 합류하여 호텔 관리 시스템 개발에 참여하였습니다.
+- 두닷두에 합류하여 호텔 관리 시스템 개발에 참여하였습니다.
 - AngularJS 프레임워크를 사용하였습니다.
 - Karma를 통한 단위 테스트 자동화, Selenium 드라이버를 이용하여 E2E 테스트 시스템을 구축하였습니다.
 
@@ -94,17 +81,16 @@
 - React 라이브러리를 사용하여 뷰 컴포넌트를 만들었고, 단방향으로 데이터가 흐를 수 있도록 뷰 컴포넌트를 구성하여 Flux 아키텍처를 구축하였습니다.
 
 
-
 ## 기술
 
 #### 프로그래밍 언어 / 방법론
 
-JavaScript(ES6+), TypeScript, HTML5, CSS3, BEM, Reactive Programming
+TypeScript, JavaScript(ES6+), HTML5, CSS3, BEM, Reactive Programming
 
 
 #### 프레임워크 / 라이브러리
 
-Angular, AngularJS, Electron, WebAPI, Karma, Jasmine, Redux
+Angular, AngularJS, rxjs, Electron, WebAPI, Karma, Jasmine, Redux
 
 
 #### 서버
@@ -115,3 +101,25 @@ node.js
 #### 툴 / 데브옵스
 
 Git, Github, Webpack, Travis CI
+
+
+## 최근 관심기술
+
+React, Dart, Flutter, AngularDart, Event Sourcing 패턴, 도메인 주도 설계
+
+
+## 활동
+
+* 고려대학교 맥주양조동아리 [맥락](https://enjoybeer.org) 2기 회장 (2018.3 ~ 2018.6)
+* 고려대학교 맥주양조동아리 [맥락](https://enjoybeer.org) 1기 회장 (2017.9 ~ 2018.1)
+* 제 2회 고려대학교 해커톤: 고카톤 운영진 (2017.5 ~ 2017.8)
+* 제 5회 대학생 연합 해커톤 UNITHON 운영진 (2017.5 ~ 2017.7)
+* Naver D2SF 캠퍼스 파트너 1기 (2016.11 ~ 2017.3)
+* 실전 SW 창업 연합 동아리 REAL 5기 운영진 (2016.11 ~ 2017.6)
+* [소프트웨어 마에스트로](swmaestro.kr) 6기 연수생 (2015.7 ~ 2016.6)
+
+
+## 학력
+
+* 고려대학교 컴퓨터학과 2학년 휴학 (2015.3 ~ )
+* 경남과학고등학교 졸업 (2013.3 ~ 2015.2)
