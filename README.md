@@ -23,7 +23,7 @@
 
 
 # 프로젝트
-## <img src="https://user-images.githubusercontent.com/13250888/53622309-b8582700-3c3c-11e9-927d-b2dbc3465892.png" alt="토스 로고" width="22" height="22"/> Toss
+## Toss <img src="https://user-images.githubusercontent.com/13250888/53622309-b8582700-3c3c-11e9-927d-b2dbc3465892.png" alt="토스 로고" width="22" height="22"/>
 `비바리퍼블리카 • 2019.2-`
 
 BankService Silo에서 프론트엔드 개발을 하고 있습니다.
@@ -40,7 +40,7 @@ BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 - 높은 퀄리티의 코드를 유지하기 위해 노력 - DI를 적극 활용, 단위 테스트 꼼꼼히 작성
 - ngrx를 사용한 상태 관리
 
-## <img src="https://user-images.githubusercontent.com/13250888/53622388-fb19ff00-3c3c-11e9-82f4-745111bf394e.png" alt="타운컴퍼니 로고" width="22" height="22"/> TownUS
+## TownUS <img src="https://user-images.githubusercontent.com/13250888/53622388-fb19ff00-3c3c-11e9-82f4-745111bf394e.png" alt="타운컴퍼니 로고" width="22" height="22"/>
 `타운컴퍼니 • 웹 프론트엔드 개발 • 2017.8-2018.3, 2018.8-12`
 
 모든 단체를 위한 공동구매 플랫폼, 타운어스(https://townus.co.kr)의 신규 플랫폼 개발에 웹 프론트엔드 부분을 맡아 프로젝트를 진행하였습니다. 모바일 사용자 유입이 많아 모바일 웹 개발을 위주로 진행하였으며, 전체적인 UI/UX 개선, 단체의류 커스터마이징 기능 강화, 조직 문화 개선 등의 작업을 하였습니다.
