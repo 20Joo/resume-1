@@ -87,6 +87,10 @@ BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 
 # 보유 기술 및 사용도구
 ## 웹 프론트엔드
+
+<img alt="angular" src="https://user-images.githubusercontent.com/13250888/53627361-a16d0100-3c4b-11e9-97ee-8c87c15bf9a3.png" width="32" height="32"/> <img alt="typescript" src="https://user-images.githubusercontent.com/13250888/53627369-a2059780-3c4b-11e9-88c2-58a7bd4a04e5.png" width="32" height="32"/> <img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img alt="rxjs" src="https://user-images.githubusercontent.com/13250888/53627366-a2059780-3c4b-11e9-8587-d959ed1e7119.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/13250888/53627368-a2059780-3c4b-11e9-95e3-9058d6a8afc7.png" alt="sass" width="32" height="32"/>
+
+
 - 주로 사용하는 언어는 TypeScript, JavaScript 입니다.
 - Angular, AngularJS 프레임워크를 능숙하게 사용할 수 있습니다.
 - JavaScript VM이 어떻게 작동하는지 이해하고, 브라우저의 동작 원리를 이해합니다.
