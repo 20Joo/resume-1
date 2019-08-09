@@ -128,5 +128,7 @@ BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 - GitHub 프로필 : https://github.com/seokju-na
 - MDN 프로필 : https://developer.mozilla.org/ko/profiles/seokju-na
 - 발표
-    * [RxJS로 비동기와 친해지기](https://www.slideshare.net/SeokjuNa/rxjs-132918267), 2019.2.22, 토스팀 사내 발표
-    * [Angular CDK로 높은 퀄리티의 UI 개발하기](https://speakerdeck.com/seokjuna/angular-cdkro-nopeun-kweolritiyi-ui-gaebalhagi), 2018.7.22, Seoul.js 라이트닝 토크
+    * [Zone과 fakeAsync](https://drive.google.com/open?id=14iqzQcqxeZtyjWWTdxv7xrmFyqKUyIo_), 2019.8.1, 토스팀 사내 엔지니어링 데이
+    * [프론트엔드 개발 끝장내기 (feat. Angular)](https://drive.google.com/open?id=1RqDz0ivfyTtN_GxzgcefOXaeIzQUQ-7o), 2019.6.22, GDG Campus Korea - [FRONT-ENDGAME: 여러분의 프런트엔드를 구할 어벤져스가 찾아옵니다](https://festa.io/events/317)
+    * [RxJS로 비동기와 친해지기](https://www.slideshare.net/SeokjuNa/rxjs-132918267), 2019.2.22, 토스팀 사내 엔지니어링 데이
+    * [Angular CDK로 높은 퀄리티의 UI 개발하기](https://drive.google.com/open?id=1hcuqv0lxFHjNVzod00cVDbBN9NB3BY1u), 2018.7.22, Seoul.js 라이트닝 토크
