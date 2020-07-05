@@ -7,8 +7,6 @@
 * Github : [github.com/seokju-na](https://github.com/seokju-na)
 
 
-좋은 개발자라면 자신의 기술에 관심과 애정을 갖고 늘 자신의 실력을 갈고닦아야 한다고 믿습니다. 저는 가치 있는 코드를 작성하는 장인이 되고 싶습니다. 또한, 비즈니스 가치와 높은 품질의 코드 사이를 조율할 수 있는 유연함을 갖추고자 노력합니다.
-
 # 경력
 * [비바리퍼블리카](https://toss.im)
     - Frontend Developer
